@@ -5,6 +5,8 @@ a personal project playing around training and optimizing CNN models for resourc
 
 # dataset
 I used the plant village dataset available on kaggle, looking to try plantdoc or another dataset better geared towards indoor plants in the future 
+https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
 
 # custom images
 the image file paths are hard coded, all the links are hardcoded... for now 
+please change all the hardcoded links if you wish to use the test.py inference script 
