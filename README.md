@@ -1,5 +1,5 @@
 # embeddedAI_PlantHealth
-a personal project playing around training and optimizing CNN models for resource constrained embedded hardware for plants :)
+a personal project playing around training and optimizing CNN models for resource constrained embedded hardware for plants :) The inference script has been tested on a raspberry pi 4 but looking to target smaller hardware soon, maybe my router just for fun.
 
 *This is a personal project to hopefully help keep my house plants alive eventually, feel free to use it or grab parts of it for your own project. It is not good and has much room for improvement. 
 
